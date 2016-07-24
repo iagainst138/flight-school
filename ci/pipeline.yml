@@ -1,6 +1,7 @@
 resources:
 - name: flight-school
   type: git
+  trigger: true
   source:
     uri: https://github.com/iagainst138/flight-school
     branch: master
